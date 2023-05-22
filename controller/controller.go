@@ -1,9 +1,10 @@
 package controller
 
 import (
-	"chapter02/module"
 	"fmt"
 	"log"
+
+	"github.com/jasminemutiara03/websocket-heroku/module"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/websocket/v2"

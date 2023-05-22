@@ -1,9 +1,10 @@
 package main
 
 import (
-	"chapter02/module"
-	"chapter02/url"
 	"log"
+
+	"github.com/jasminemutiara03/websocket-heroku/module"
+	"github.com/jasminemutiara03/websocket-heroku/url"
 
 	"github.com/gofiber/fiber/v2"
 )
